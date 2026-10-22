@@ -50,11 +50,11 @@ body {
 
 /* LEFT */
 .links-col {
-  padding: 15rem 2rem 2rem 2.5rem;
+  padding: 2rem 2rem 2rem 2.5rem;
   border-right: 1.5px solid var(--ink);
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: safe center;
   overflow-y: auto;
 }
 
